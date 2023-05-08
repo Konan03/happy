@@ -1,0 +1,46 @@
+body{
+    font-family: 'Maven Pro', sans-serif;
+    /*background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);*/
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+    /*background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);*/
+    /*background-image: linear-gradient(to top, #fdcbf1 0%, #fdcbf1 1%, #e6dee9 100%);*/
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logosCumple{
+    width: 50px;
+    height: 50px;
+    margin: 0 10px;
+}
+
+h1{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    margin: 5%;
+}
+
+#textoFelicitacion{
+    margin: 5%;
+    font-size: 40px;
+}
+
+.audioContainer{
+    display: flex;
+    justify-content: center;
+    
+}
+
+p{
+    text-align: center;
+}
+
+.textoCarrusel{
+    padding: 22%;
+    font-size: 30px;
+}
